@@ -1,7 +1,7 @@
 // This is an AllowList of topics that are approved for use in `topics`
 // frontmatter property. If a new topic is added to a Markdown file it must
 // also be added to this file.
-
+ 
 // The purpose of this list is to ensure we prevent typos and put a process in
 // place to keep a curated list of topics. This list also serves as a list of
 // available topics filters when using the search endpoint
