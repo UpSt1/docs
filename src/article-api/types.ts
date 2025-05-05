@@ -1,4 +1,4 @@
-import type { ExtendedRequest, Page } from '@/types'
+import type { ExtendedRequest, Page }  from '@/types'
 
 export type ArchivedVersion = {
   isArchived?: boolean
