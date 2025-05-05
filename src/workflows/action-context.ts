@@ -4,7 +4,7 @@ import { readFileSync } from 'fs'
 export function getActionContext() {
   if (!process.env.GITHUB_EVENT_PATH) {
     if (!process.env.CI) {
-      console.warn(
+      console.warn( 
         `
       If you're trying to run this locally, to simulate this create a file like this:
 
