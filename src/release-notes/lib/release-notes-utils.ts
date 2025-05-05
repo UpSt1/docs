@@ -3,7 +3,7 @@ import { supported, latestStable, latest } from '@/versions/lib/enterprise-serve
 import { renderContent } from '@/content-render/index.js'
 import type { Context, GHESReleasePatch, ReleaseNotes } from '@/types'
 
-/**
+/** 
  * Create an array of release note objects and sort them by number.
  * Turn { [key]: { notes, intro, date, sections... } }
  * Into [{ version, patches: [ {notes, intro, date, sections... }] }]
