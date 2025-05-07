@@ -1,4 +1,4 @@
----
+--- 
 title: Transcript - "Billing GitHub consumption through an Azure subscription"
 intro: Audio and visual transcript.
 shortTitle: Billing through Azure
