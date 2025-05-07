@@ -1,4 +1,4 @@
----
+--- 
 title: Video transcripts
 hidden: true
 intro: 'Find audio and visual transcripts for videos linked from this site.'
